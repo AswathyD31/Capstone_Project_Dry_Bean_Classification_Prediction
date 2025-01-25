@@ -1,6 +1,6 @@
 # **Dry Bean Seed Classification**
 
-![image alt](.png)
+![image alt](https://github.com/AswathyD31/Capstone_Project_Dry_Bean_Classification_Prediction/blob/69dad0f7896fc4cfacbddef3da54bda7612b21fc/Dry_Bean.jpg)
 
 # **Project Overview**
 
