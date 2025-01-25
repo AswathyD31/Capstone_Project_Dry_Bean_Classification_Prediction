@@ -1,5 +1,7 @@
 # **Dry Bean Seed Classification**
 
+![image alt](.png)
+
 # **Project Overview**
 
 This project is focused on developing a machine learning pipeline to classify dry bean seeds into distinct categories based on their physical properties. By utilizing the Dry Bean Dataset, the project addresses challenges like data preprocessing, class imbalance, feature scaling, and model evaluation. It provides a robust and efficient solution for agricultural applications and seed classification.
